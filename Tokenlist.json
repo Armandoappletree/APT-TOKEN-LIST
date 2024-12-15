@@ -1,0 +1,18 @@
+{
+  "name": "APT-OfficialList",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x123456789abcdef123456789abcdef12345678",
+      "name": "APT Token",
+      "symbol": "APT",
+      "decimals": 18,
+      "logoURI": "https://example.com/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
