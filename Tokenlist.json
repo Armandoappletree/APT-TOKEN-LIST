@@ -3,11 +3,11 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x123456789abcdef123456789abcdef12345678",
+      "address": "0x11a40E4E1205AFe83E27F0bbc677B116853f7675",
       "name": "APT Token",
       "symbol": "APT",
       "decimals": 18,
-      "logoURI": "https://example.com/logo.png"
+      "logoURI": "https://i.imgur.com/57smiCp.jpeg"
     }
   ],
   "version": {
